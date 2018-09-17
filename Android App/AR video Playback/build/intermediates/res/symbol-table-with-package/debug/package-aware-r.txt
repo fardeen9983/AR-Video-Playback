@@ -1,0 +1,14 @@
+com.RedFlag.ARVideoPlayback
+int drawable app_banner 0x7f010000
+int id start 0x7f020000
+int id stop 0x7f020001
+int id unityPlayer 0x7f020002
+int layout unity_layout 0x7f030000
+int mipmap app_icon 0x7f040000
+int mipmap app_icon_round 0x7f040001
+int mipmap ic_launcher_background 0x7f040002
+int mipmap ic_launcher_foreground 0x7f040003
+int string app_name 0x7f050000
+int style BaseUnityTheme 0x7f060000
+int style UnityThemeSelector 0x7f060001
+int style UnityThemeSelector_Translucent 0x7f060002
